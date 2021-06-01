@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #151b29;
+
+}
+
+button {
+  font-size:1.4rem;
+    font-family: 'Mate SC', serif;
+    background: none;
+    border: 2px solid;
+    color: rgb(250, 196, 49);
+    padding: 20px;
+    word-spacing: 4px;
+   transition:.9s ease-out 0s ;
+
+}
+
+button:hover {
+    border-color: rgb(173, 51, 255);
+    color: rgb(255, 255, 255);
+    letter-spacing: 8px;
+    box-shadow:0 .6em .6em -.5em  rgba(194, 153, 225, 1.5);
+    font-weight: 500;
+  transform:translateY(-1em);
+
+}
