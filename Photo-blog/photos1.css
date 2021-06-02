@@ -1,3 +1,7 @@
+body{
+    cursor: pointer;
+}
+
 .nav{
     font-family: 'Caveat', cursive;
     width: 85%;
