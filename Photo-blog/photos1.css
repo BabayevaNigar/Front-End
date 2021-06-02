@@ -1,0 +1,18 @@
+.nav{
+    font-family: 'Caveat', cursive;
+    width: 85%;
+    font-size: 16px;
+    border-bottom: 1px solid #918f8f;
+    padding-bottom: 1.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    transition: .3s ease 0s;
+}
+
+.nav:hover{
+    transition: .3s ease 0s;
+    color: wheat;
+    letter-spacing: 10px;
+}

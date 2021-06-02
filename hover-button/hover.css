@@ -20,7 +20,8 @@ button {
     color: rgb(250, 196, 49);
     padding: 20px;
     word-spacing: 4px;
-   transition:.9s ease-out 0s ;
+   transition:.25s ease-out 0s ;
+   cursor: pointer;
 
 }
 

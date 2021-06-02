@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  
+  .bg-image{
+    background-image: url("https://images.unsplash.com/photo-1622515752702-0ef08bf96dbb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1047&q=80");
+    background-size: cover;
+    width:80%;
+    height:800px;
+    margin:25px auto;
+  }
+  
+  h1{
+    color:#fff;
+    text-align:center;
+    padding-top: 25px;
+  }
+
+  
